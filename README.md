@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Dhokchaule</h1>
-<h3 align="center">A Passionate Full Stack Web And ERP Software Developer From Pune</h3>
+<h3 align="center">A Passionate Full Stack Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhav-dhokchaule&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhav-dhokchaule" /> </p>
 
@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/vaibhav_dhok007" target="blank"><img src="https://img.shields.io/twitter/follow/vaibhav_dhok007?logo=twitter&style=for-the-badge" alt="vaibhav_dhok007" /></a> </p>
 
-- 🌱 I’m currently learning **FULL STACK WEB DEVELOPMENT AND ERP SOFTWARE DEVELOPMENT**
+- 🌱 I’m currently learning **FULL STACK SOFTWARE DEVELOPMENT**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vaibhav-dhokchaule](https://github.com/vaibhav-dhokchaule)
 
-- 📫 How to reach me **vaibhavdhokchaule76@gmail.com**
+- 📫 How to reach me ****
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
